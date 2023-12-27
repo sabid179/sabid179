@@ -1,5 +1,5 @@
 - 👋 Md. Rakibul Islam Sabid
-- 👀 Prefered Languages: C, C++, Java, Python
+- 👀 Prefered Languages: C, C++, Java
 - 🌱 I’m currently learning Java & C++...
 - 🦖 Programming Experience: Less than 1 Year
 - 📫 WhatsApp: +880 1867 428 503 ...
