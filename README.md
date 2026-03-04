@@ -38,6 +38,7 @@
 ![REST API](https://img.shields.io/badge/-REST%20API-00AEEF?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-4B3F72?style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
