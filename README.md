@@ -77,7 +77,7 @@
 --- 
 
 ## 🐍 GitHub Snake Animation
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sabid179/sabid179/main/output/github-contribution-grid-snake.svg)
 
 ---
 
