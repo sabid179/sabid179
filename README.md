@@ -74,11 +74,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabid179&theme=tokyo-night)
 
---- 
-
-## 🐍 GitHub Snake Animation
-![Snake animation](https://raw.githubusercontent.com/sabid179/sabid179/main/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📫 Connect With Me
