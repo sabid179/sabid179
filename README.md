@@ -61,8 +61,6 @@
 ---
 
 ## 📊 GitHub Overview
-![Public Repos](https://img.shields.io/github/repos/sabid179?style=for-the-badge)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sabid179&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/sabid179?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/sabid179?affiliations=OWNER&style=for-the-badge)
